@@ -117,12 +117,3 @@ To illustrate the functionality of this project, three example screenshots are p
   - This prevents misinterpretation of data and improves user experience.  
 
 ![Error Case](./Error.png)
-
----
-
-## 🖥️ Usage Instructions
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/unemployment-lithuania.git
-cd unemployment-lithuania
